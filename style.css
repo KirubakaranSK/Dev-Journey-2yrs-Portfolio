@@ -1737,19 +1737,7 @@ footer {
     margin-bottom: 10px;
 }
 
-/* Text-Only Tech Stack Box */
-.tech-stack-box.text-only {
-    flex-direction: column;
-    gap: 10px;
-}
 
-.tech-stack-text {
-    color: var(--color-white);
-    font-size: 1.6rem;
-    font-weight: 700;
-    font-family: fira code;
-    text-align: center;
-}
 
 @media (max-width: 768px) {
     .projects-container {
